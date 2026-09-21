@@ -112,7 +112,7 @@ I am an Information Technology undergraduate student at **IIIT Bhopal** with a s
 
 ## 🤝 Connect With Me
 
-- 💼 **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME) *(Replace with actual LinkedIn URL)*
+- 💼 **LinkedIn:** [Vidhi Jain](https://www.linkedin.com/in/vidhi-jain-458381324/)
 - 🐙 **GitHub:** [https://github.com/vidhi992](https://github.com/vidhi992)
 - 📧 **Email:** [jainvidhi962@gmail.com](mailto:jainvidhi962@gmail.com)
 - 📞 **Phone:** +91-9301954884
