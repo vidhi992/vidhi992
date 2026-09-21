@@ -85,7 +85,7 @@ I am an Information Technology undergraduate student at **IIIT Bhopal** with a s
   - Designed backend APIs for alert management, user authentication, and secure request handling.
   - Structured MongoDB schemas for efficient storage and retrieval of emergency records.
   - Collaborated in a 4-member team to deliver a functional prototype under strict evaluation constraints.
-- **GitHub:** `GitHub: Coming soon`
+- **GitHub:** [vidhi992/SafeShe](https://github.com/vidhi992/SafeShe)
 
 ---
 
