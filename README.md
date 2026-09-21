@@ -89,30 +89,6 @@ I am an Information Technology undergraduate student at **IIIT Bhopal** with a s
 
 ---
 
-### 💻 Interactive Quiz Website
-
-- **Description:** Interactive quiz platform featuring dynamic scoring logic and real-time result calculation.
-- **Tech Stack:** `HTML`, `CSS`, `JavaScript`
-- **Key Features:**
-  - Features 20+ structured questions with dynamic scoring logic.
-  - Implemented answer validation, real-time score tracking, and automated result generation.
-  - Managed application state using structured JavaScript logic and efficient DOM manipulation.
-- **GitHub:** `GitHub: Coming soon`
-
----
-
-### 🌐 Weather Website
-
-- **Description:** Responsive web application displaying real-time weather information using an external REST API.
-- **Tech Stack:** `HTML`, `CSS`, `JavaScript`, `REST API (OpenWeatherMap)`
-- **Key Features:**
-  - Integrated OpenWeatherMap API to fetch and display real-time weather data for 100+ city queries.
-  - Handled asynchronous API calls using `async/await` with error handling and input validation.
-  - Implemented dynamic DOM updates for responsive UI rendering.
-- **GitHub:** `GitHub: Coming soon`
-
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
